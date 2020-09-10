@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Ogwudu-Family-Tree-App/static/css/main.67c8249c.chunk.css",
+    "main.js": "/Ogwudu-Family-Tree-App/static/js/main.b970d6af.chunk.js",
+    "main.js.map": "/Ogwudu-Family-Tree-App/static/js/main.b970d6af.chunk.js.map",
+    "runtime-main.js": "/Ogwudu-Family-Tree-App/static/js/runtime-main.aeb6fd67.js",
+    "runtime-main.js.map": "/Ogwudu-Family-Tree-App/static/js/runtime-main.aeb6fd67.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Ogwudu-Family-Tree-App/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js": "/Ogwudu-Family-Tree-App/static/js/2.e7e24cc0.chunk.js",
+    "static/js/2.e7e24cc0.chunk.js.map": "/Ogwudu-Family-Tree-App/static/js/2.e7e24cc0.chunk.js.map",
+    "index.html": "/Ogwudu-Family-Tree-App/index.html",
+    "precache-manifest.c50312be93ec598887ced7cdaf65b87e.js": "/Ogwudu-Family-Tree-App/precache-manifest.c50312be93ec598887ced7cdaf65b87e.js",
+    "service-worker.js": "/Ogwudu-Family-Tree-App/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Ogwudu-Family-Tree-App/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.67c8249c.chunk.css.map": "/Ogwudu-Family-Tree-App/static/css/main.67c8249c.chunk.css.map",
+    "static/js/2.e7e24cc0.chunk.js.LICENSE.txt": "/Ogwudu-Family-Tree-App/static/js/2.e7e24cc0.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Ogwudu-Family-Tree-App/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb6fd67.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e7e24cc0.chunk.js",
+    "static/css/main.67c8249c.chunk.css",
+    "static/js/main.b970d6af.chunk.js"
+  ]
+}
