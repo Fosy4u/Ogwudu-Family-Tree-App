@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1e7aaa55f51bd40f6cdd36bb05c45d4b",
+    "revision": "fbba79bd870f9efb117c37ec6a1eba00",
     "url": "/Ogwudu-Family-Tree-App/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ogwudu-Family-Tree-App/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "8082429cb9991ec8fb27",
+    "revision": "a7c446fb54c8b1a46828",
     "url": "/Ogwudu-Family-Tree-App/static/css/main.67c8249c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ogwudu-Family-Tree-App/static/js/2.e7e24cc0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8082429cb9991ec8fb27",
-    "url": "/Ogwudu-Family-Tree-App/static/js/main.b970d6af.chunk.js"
+    "revision": "a7c446fb54c8b1a46828",
+    "url": "/Ogwudu-Family-Tree-App/static/js/main.d19d1cfe.chunk.js"
   },
   {
     "revision": "9a09d3d9d133ab5725b2",

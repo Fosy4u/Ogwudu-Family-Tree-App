@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Ogwudu-Family-Tree-App/precache-manifest.c50312be93ec598887ced7cdaf65b87e.js"
+  "/Ogwudu-Family-Tree-App/precache-manifest.7d0d6042f53d9e715a3d0097d30d2a9a.js"
 );
 
 self.addEventListener('message', (event) => {
